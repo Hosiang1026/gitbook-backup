@@ -9,7 +9,14 @@
 ## 知识总结
 * [Java开发](java/introduce.md)
     * [JVM生态](java/ecology/introduce.md)
-        * [JVM](java/ecology/jvm/introduce.md)
+        * [JVM](java/ecology/jvm/memory.md)
+            * [内存划分](java/ecology/jvm/memory.md)
+            * [内存分配](java/ecology/jvm/memory.md)
+            * [对象创建](java/ecology/jvm/memory.md)
+            * [类加载机制](java/ecology/jvm/memory.md)
+            * [垃圾回收](java/ecology/jvm/memory.md)
+            * [OOM分析](java/ecology/jvm/memory.md)
+            * [Volatile 关键字](java/ecology/jvm/memory.md)
         * [Java SE](java/ecology/javaSE/summary.md)
             * [发展概述](java/ecology/javaSE/summary.md)
             * [基础语法](java/ecology/javaSE/grammar.md)
@@ -67,8 +74,6 @@
         * [分库分表](OS/os.md)
         * [索引原理](OS/os.md)
         * [隔离级别](OS/os.md)
-* [Python开发](knowledge.md)
-* [Blockchain开发](knowledge.md)
 
 ## 面试技巧
 * [笔试题型](knowledge.md)

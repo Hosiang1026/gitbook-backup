@@ -1,6 +1,6 @@
 # JVM生态
 
-* [JVM](jvm/introduce.md)
+* [JVM](jvm/memory.md)
 
 * [Java SE](javaSE/summary.md)
 
